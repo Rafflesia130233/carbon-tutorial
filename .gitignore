@@ -2,7 +2,6 @@
 
 # dependencies
 /node_modules
-/.yarn
 /.pnp
 .pnp.js
 
@@ -13,6 +12,7 @@
 /build
 
 # misc
+.yarn/*
 .DS_Store
 .env.local
 .env.development.local
